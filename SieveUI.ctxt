@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=num
+comment1.target=void\ displayResults(int)
+comment1.text=\n\ this\ method\ takes\ the\ ArrayLists\ and\ prints\ out\ the\ prime\ numbers\ as\ well\ as\ the\ percent\ of\ primes\ to\ the\ whole\ set\ of\ \n\ numbers\ in\ the\ specified\ range.\n\ @param\ user-dictated\ value\n
+comment2.params=num\ numbers
+comment2.target=void\ printlist(int,\ java.util.ArrayList)
+comment2.text=\n\ this\ method\ will\ print\ out\ all\ the\ prime\ numbers\ found\ in\ 12\ numbers\ per\ line.\n\ @param\ user-dictated\ value\n\ @param\ ArrayList\ of\ prime\ numbers\n
+comment3.params=num\ numbers
+comment3.target=double\ findPercent(int,\ java.util.ArrayList)
+comment3.text=\n\ this\ method\ will\ find\ the\ percentage\ of\ numbers\ in\ the\ range\ that\ are\ prime\ and\ \n\ print\ it\ to\ one\ decimal\ point.\n\ @param\ user\ input\ value\n\ @param\ ArrayList\ of\ prime\ numbers\n\ @return\ percent\ of\ primes\n
+comment4.params=
+comment4.target=void\ intro()
+comment4.text=\n\ Introduction\ for\ user\ interface\n
+numComments=5

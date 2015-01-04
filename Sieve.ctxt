@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=java.util.ArrayList\ findPrimes(int)
+comment0.text=\n\ This\ method\ finds\ all\ positive\ prime\ numbers\ up\ to\ the\ value\ input\ by\ the\ user.\n\ @param\ value\ input\ by\ user\ that\ determines\ the\ range\ of\ values\ to\ be\ examined.\n\ @return\ ArrayList\ of\ prime\ numbers\n\ @throws\ IllegalArgumentException\ if\ value\ is\ less\ than\ 2.\n
+numComments=1

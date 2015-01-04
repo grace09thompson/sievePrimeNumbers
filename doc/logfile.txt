@@ -1,0 +1,47 @@
+Class documentation
+<---- javadoc command: ---->
+/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.6
+-classpath
+/Users/critterchick2/Desktop/BlueJ 3.0.8/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Users/critterchick2/Desktop/BlueJ 3.0.8/BlueJ.app/Contents/Resources/Java/junit-4.8.2.jar:/Users/critterchick2/Documents/ThompsonHW8
+-d
+/Users/critterchick2/Documents/ThompsonHW8/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/Users/critterchick2/Desktop/BlueJ 3.0.8/BlueJ.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/critterchick2/Documents/ThompsonHW8/SieveUI.java
+<---- end of javadoc command ---->
+Loading source file /Users/critterchick2/Documents/ThompsonHW8/SieveUI.java...
+Constructing Javadoc information...
+Standard Doclet version 1.6.0_37
+Building tree for all the packages and classes...
+Generating /Users/critterchick2/Documents/ThompsonHW8/doc/SieveUI.html...
+/Users/critterchick2/Documents/ThompsonHW8/SieveUI.java:50: warning - @param argument "user-dictated" is not a parameter name.
+/Users/critterchick2/Documents/ThompsonHW8/SieveUI.java:85: warning - @param argument "user" is not a parameter name.
+/Users/critterchick2/Documents/ThompsonHW8/SieveUI.java:85: warning - @param argument "ArrayList" is not a parameter name.
+/Users/critterchick2/Documents/ThompsonHW8/SieveUI.java:64: warning - @param argument "user-dictated" is not a parameter name.
+/Users/critterchick2/Documents/ThompsonHW8/SieveUI.java:64: warning - @param argument "ArrayList" is not a parameter name.
+Generating /Users/critterchick2/Documents/ThompsonHW8/doc/package-frame.html...
+Generating /Users/critterchick2/Documents/ThompsonHW8/doc/package-summary.html...
+Generating /Users/critterchick2/Documents/ThompsonHW8/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Users/critterchick2/Documents/ThompsonHW8/doc/allclasses-frame.html...
+Generating /Users/critterchick2/Documents/ThompsonHW8/doc/allclasses-noframe.html...
+Generating /Users/critterchick2/Documents/ThompsonHW8/doc/index.html...
+Generating /Users/critterchick2/Documents/ThompsonHW8/doc/stylesheet.css...
+5 warnings
